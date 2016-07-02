@@ -2,7 +2,7 @@
 /*
 Plugin Name: Example Contact Form Plugin
 Plugin URI: http://example.com
-Description: Simple non-bloated WordPress Contact Form
+Description: Simple WordPress Contact Form
 Version: 1.0.0
 Author: Prakash Pasupuleti
 
