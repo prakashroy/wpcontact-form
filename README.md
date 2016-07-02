@@ -1,6 +1,7 @@
 # wpcontact-form
 
-Custom Contact Form Plugin
+Custom Contact Form Plugin For Wordpress 
+
 Using custom contact form plugin we can easily contact form in any page or post using shortcode [iq_contact_us]
 
 How to use plugin?
