@@ -4,8 +4,11 @@ Custom Contact Form Plugin
 Using custom contact form plugin we can easily contact form in any page or post using shortcode [iq_contact_us]
 
 How to use plugin?
+
 Step1: Copy contact_plugin.php to wp-contebt/plugins directory and go to admin dashboard and activate example of contact form plugin.
+
 Step2: Use shortcode [iq_contact_us] in any page or post
+
 Step3: Submit contact information to save in database
 
 Create Table before copying plugin 
