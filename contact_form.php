@@ -11,7 +11,7 @@ Author: Prakash Pasupuleti
 function html_form_code() {
 	echo '<form action="' . esc_url( $_SERVER['REQUEST_URI'] ) . '" method="post">';
 	echo '<div>';
-	echo 'User Name <br/>';
+	echo 'User Name: <br/>';
 	echo '<input type="text" name="cf-name"   size="40" />';
 	echo '</p>';
 	echo '<p>';
